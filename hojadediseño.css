@@ -1,0 +1,29 @@
+p{
+    color:black;
+    font-family:'Gill Sans MT';
+    font-size: 12px;
+}
+
+h1{
+    color: black;
+    font-weight: bold;
+    font-family:'Gill Sans MT';
+    font-size: 12px;
+    text-align: center;
+}
+
+titulotabla{
+    text-align: center;
+    font-family:'Gill Sans MT';
+    font-size: 12px;
+    font-weight: bold;
+    color: darkblue;
+}
+
+h2{
+    color: black;
+    font-weight: bold;
+    font-family:'Gill Sans MT';
+    font-size: 12px;
+}
+
